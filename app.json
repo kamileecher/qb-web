@@ -1,7 +1,7 @@
 {
 	"name": "qb-web",
 	"description": "Run qb-web on heroku",
-	"repository": "https://github.com/kamileecher/qb-web/",
+	"repository": "https://github.com/kamileecher/qb-web",
 	"keywords": ["UEHToR"],
 	"buildpacks": [
 		{
